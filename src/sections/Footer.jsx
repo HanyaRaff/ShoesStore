@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='flex flex-col items-start'>
           <a href='/'>
             <img
-              src={footerLogo}
+              src={'/shoestore.png'}
               alt='logo'
               width={150}
               height={46}
